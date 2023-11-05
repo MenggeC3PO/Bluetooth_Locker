@@ -18,11 +18,12 @@ This repository contains the implementation of an intelligent parking lock syste
 - **Actuation Module**: TC118SS motor drive module, actuating the motor in response to control signals.
 - **Sensory Module**: ITR9606 photoelectric sensors, responsible for status feedback based on lock position.
 
+*Figure 1: PCB Design*
 ![Bluetooth PCB](bluetooth_pcb.png)
-*Figure 1: Bluetooth PCB Design*
 
+*Figure 2: Final Product*
 ![Bluetooth Product](bluetooth_product.png)
-*Figure 2: Final Product Assembly*
+
 
 ### Software Framework
 
